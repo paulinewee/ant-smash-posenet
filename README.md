@@ -4,17 +4,17 @@ I created Ant Smasher, one of my favorite childhood games.
 
 It features:
 
-multiple game settings
-music and sound effects for squishing ants and losing
-a swatter cursor
-hover effects on the buttons
-different types and speeds of generated ants
-a timer
-3 lives that you can visually deplete
-a visual effect as the ants eat the candy
-custom designed start and end pages
-a settings page to choose settings from
-The ants splice off the list when they die or go offscreen, and everything resets (though your high score is stored) so you can keep playing again and again.
+- multiple game settings
+- music and sound effects for squishing ants and losing
+- a swatter cursor
+- hover effects on the buttons
+- different types and speeds of generated ants
+- a timer
+- 3 lives that you can visually deplete
+- a visual effect as the ants eat the candy
+- custom designed start and end pages
+- a settings page to choose settings from
+- The ants splice off the list when they die or go offscreen, and everything resets (though your high score is stored) so you can keep playing again and again.
 
 **Play original version here: https://editor.p5js.org/paulinekowee/full/mIbh4TZHg**
 
